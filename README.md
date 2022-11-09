@@ -2,7 +2,6 @@
 
 ## Badges 
 ![Github Repo Size](https://img.shields.io/github/repo-size/CJMerit/Business-Planner?style=for-the-badge)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/CJMerit/Business-Planner?style=for-the-badge)
 ![GitHub Repo stars](https://img.shields.io/github/stars/CJMerit/Business-Planner?style=social)
 
 
